@@ -15,11 +15,11 @@ Autoencoder is an unsupervised artificial neural network that is trained to copy
 
 ### STEP 3:Create the model for the program , in this experiment we create to networks , one for encoding and one for decoding.
 
-Write your own steps
+
 
 ## PROGRAM
 
-```
+```PYTHON
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import utils
